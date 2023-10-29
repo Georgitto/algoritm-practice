@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Georgitto/algoritm-practice#readme",
   "devDependencies": {
     "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "eslint": "^8.51.0"
   }
 }
